@@ -85,10 +85,10 @@ className="flex h-10 items-center bg-[#1977cc] px-4 text-sm text-white"
 Need Help? Contact Support </HashLink> </span>
 
       <span className="flex items-center gap-4">  
-        <a href="https://github.com/aamir-ullah-offical"><i className="bi bi-github" /></a>  
-        <a href="https://www.facebook.com/AamirUllahOfficial/"><i className="bi bi-facebook" /></a>  
-        <a href="https://www.instagram.com/aamir_ullah_official/"><i className="bi bi-instagram" /></a>  
-        <a href="https://www.linkedin.com/in/aamirullahofficial/"><i className="bi bi-linkedin" /></a>  
+        <a href="https://github.com/Qadeerkhan3"><i className="bi bi-github" /></a>  
+        <a href="https://www.facebook.com/qadeer.khan.183901"><i className="bi bi-facebook" /></a>  
+        {/* <a href="https://www.instagram.com/aamir_ullah_official/"><i className="bi bi-instagram" /></a>   */}
+        <a href="www.linkedin.com/in/qadeerullah"><i className="bi bi-linkedin" /></a>  
       </span>  
     </div>  
   </motion.div>  

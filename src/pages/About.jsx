@@ -48,11 +48,11 @@ const TEAM = [
     avatar: "/Muhammad-Osama.png",
   },
   {
-    name: "Aamir Ullah",
+    name: "Qadeer Ullah",
     role: "Lead Developer (Vite + Advanced Features)",
-    github: "https://github.com/aamir-ullah-offical",
-    linkedin: "https://www.linkedin.com/in/aamirullahofficial/",
-    avatar: "/Aamir-Ullah.png",
+    github: "https://github.com/Qadeerkhan3",
+    linkedin: "www.linkedin.com/in/qadeerullah",
+    avatar: "./assets/Qadeerprf.jpg",
   },
 ];
 

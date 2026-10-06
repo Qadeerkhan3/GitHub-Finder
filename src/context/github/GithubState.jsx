@@ -79,7 +79,7 @@ const GithubState = ({ children }) => {
         getUser,
         getUserRepos,
         clearUsers,
-        setLoading, // ✅ ab available hai
+        setLoading,
       }}
     >
       {children}

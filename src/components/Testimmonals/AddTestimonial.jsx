@@ -3,7 +3,7 @@ import { useState, useMemo, useEffect } from 'react';
 import { FaStar, FaPlus } from 'react-icons/fa';
 
 const API_URL =
-  'https://68dba088445fdb39dc2609a7.mockapi.io/api/v1/ClientReviews/reviews';
+  'https://6ac4ec3b54a61668c5f68b96.mockapi.io/reviews';
 
 export default function ReviewSection() {
   const [open, setOpen] = useState(false);

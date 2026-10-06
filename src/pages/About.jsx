@@ -1,5 +1,9 @@
 /* ─────────────────  src/pages/About.jsx  ───────────────── */
 import { motion } from "framer-motion";
+import qadeerImg from "./assets/Qadeerprf.jpg";
+
+// ...
+
 import {
   FaGithub,
   FaSearch,
@@ -52,7 +56,7 @@ const TEAM = [
     role: "Lead Developer (Vite + Advanced Features)",
     github: "https://github.com/Qadeerkhan3",
     linkedin: "www.linkedin.com/in/qadeerullah",
-    avatar: "./assets/Qadeerprf.jpg",
+    avatar: {qadeerImg},
   },
 ];
 
